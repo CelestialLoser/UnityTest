@@ -1,6 +1,6 @@
 # UnityTest
 
-For the plane exercise I did a minor tweak to the camera... I just thought it would look a bit more interesting.
+For the plane exercise I did a minor a tweak to the camera... I just thought it would look a bit more interesting.
 
 The technical assesment.pdf contains the theorical answers to the test. the C++.rar file, contains the source code for the C/C++ excersises.
 
